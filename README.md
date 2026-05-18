@@ -105,5 +105,6 @@ You passed the challenge! 🎉🎉🎉🎉🎉
 
 **Yasandu Kethmika**  
 Undergraduate
-B.Sc.(Hons) Computer Science & Engineering 
+
+B.Sc.(Hons) Computer Science & Engineering |
 University of Moratuwa
