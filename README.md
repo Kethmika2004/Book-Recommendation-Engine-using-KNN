@@ -104,8 +104,5 @@ You passed the challenge! 🎉🎉🎉🎉🎉
 ## 👨‍💻 Author
 
 **Yasandu Kethmika**  
-Undergraduate
-
-B.Sc.(Hons) Computer Science & Engineering 
-
-University of Moratuwa
+Undergraduate | 
+B.Sc.(Hons) Computer Science & Engineering | University of Moratuwa
